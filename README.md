@@ -19,7 +19,7 @@ Then after cloning
 
 ### `pip install package`
 
-after installing run the python shell  by writing
+after installing run the python shell by writing
 
 ### `python`
 
@@ -30,3 +30,7 @@ then run
 after that run the command below to create the database
 
 ### `db.create_all()`
+
+To start application run 
+
+### `python run.py`
