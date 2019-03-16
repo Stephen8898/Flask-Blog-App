@@ -1,4 +1,4 @@
-## Blog App
+# Blog App
 
 This is a blog application. 
 It uses the Flask backend frame work. The application  works like a blog.
